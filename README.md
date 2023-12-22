@@ -6,5 +6,5 @@
 <p>Object detection used the help of RoboFlow API to annotate therefore there is no need for uploading the Dataset. The dataset is saved under the Roboflow(api_key) line</p>
 
 <h2>Models</h2>
-<p>Image Classification model was built from ground up using CNN model and Batch Normalization</p>
+<p>Image Classification model was built from ground up using CNN model with resnet50 and Batch Normalization</p>
 <p>Object Detection model was built using transfer learning with YoLoV8</p>
